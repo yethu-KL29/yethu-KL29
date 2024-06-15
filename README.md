@@ -12,7 +12,7 @@
 ## Hey there 👋
 
 
-**Hi, I'm Yethu, deeply immersed in the field of data science. My journey into this dynamic field is driven by a fascination with uncovering insights and patterns from complex datasets. I thrive on building predictive models, refining data pipelines, and leveraging machine learning to tackle challenges. My goal is to continuously advance my skills in data science to contribute meaningfully to solving real-world problems and driving innovation through data-driven solutions.
+**Hi, I'm Yethu, deeply immersed in the field of data science. My journey into this dynamic field is driven by a fascination with uncovering insights and patterns from complex datasets. I thrive on building predictive models, refining data pipelines, and leveraging machine learning to tackle challenges. My goal is to continuously advance my skills in data science to contribute meaningfully to solving real-world problems and driving innovation through data-driven solutions.**
 
 
 
