@@ -43,12 +43,11 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - Express js
-  - React js
-  - Redux
-  - mongo db
-  -Solidity
-  -Web3 js
+  - Data Science
+  - AWS
+  - ETL
+  - Docker
+  
 
 </div>
 
