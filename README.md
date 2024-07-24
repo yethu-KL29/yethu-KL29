@@ -1,4 +1,4 @@
-<h1 align="center">A Passionate Data Engineer From India</h1>
+<h1 align="center">A Passionate ML Engineer From India</h1>
 
 
 
@@ -53,18 +53,28 @@
 
   
  ## Tech Stack
- 
+
+ ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%231E5CFF.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-%23000339.svg?style=for-the-badge&logo=Seaborn&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+
  
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular" alt="angular Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva" alt="canva Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 <img src="https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart" alt="dart Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="flask Badge" height="25">&nbsp;
