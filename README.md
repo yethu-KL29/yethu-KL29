@@ -1,4 +1,4 @@
-<h1 align="center">A Passionate ML Engineer From India</h1>
+<h1 align="center">A Passionate ML Developer From India</h1>
 
 
 
